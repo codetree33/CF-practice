@@ -1,3 +1,5 @@
+# some CF practice _word Press template
+
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
   AWS CloudFormation Sample Template WordPress_Multi_AZ: WordPress is web
